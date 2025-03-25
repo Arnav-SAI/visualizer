@@ -1,0 +1,34 @@
+{
+  "name": "codebase-visualizer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.6.2",
+    "@types/react": "18.2.22",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.5.1",
+    "next": "13.5.1",
+    "postcss": "8.4.30",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.2.2",
+    "d3": "^7.8.5",
+    "@supabase/supabase-js": "^2.33.2",
+    "octokit": "^3.1.1",
+    "parse-git-config": "^3.0.0",
+    "jszip": "^3.10.1",
+    "react-dropzone": "^14.2.3",
+    "acorn": "^8.10.0",
+    "acorn-walk": "^8.2.0",
+    "acorn-jsx": "^5.3.2"
+  }
+}
